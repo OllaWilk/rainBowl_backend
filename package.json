@@ -1,0 +1,23 @@
+{
+  "name": "rainbowl_back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OllaWilk/rainBowl_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OllaWilk/rainBowl_backend/issues"
+  },
+  "homepage": "https://github.com/OllaWilk/rainBowl_backend#readme",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
